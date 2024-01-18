@@ -1,3 +1,3 @@
 -- This is random q
-SELECT column1, column2
+SELECT col1, col2
 FROM TABLE1
